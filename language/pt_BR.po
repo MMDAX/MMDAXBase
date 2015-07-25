@@ -1,0 +1,292 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: MMDAX\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-07-18 18:12-0300\n"
+"PO-Revision-Date: 2015-07-18 18:13-0300\n"
+"Last-Translator: Mateus Macedo Dos Anjos <mateusmacedodosanjos@gmail.com>\n"
+"Language-Team: MMDAX <mmdaxsofware@gmail.com>\n"
+"Language: pt_BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: translate;_\n"
+"X-Poedit-Basepath: /var/www/html/zf2mmdax/module/MMDAXUser/view\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Poedit 1.5.4\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: /var/www/html/zf2mmdax/module/MMDAXBase/view\n"
+
+#: /var/www/html/zf2mmdax/module/MMDAXBase/view/mmdax-base/translations.phtml:4
+msgid "Yes"
+msgstr "Sim"
+
+#: /var/www/html/zf2mmdax/module/MMDAXBase/view/mmdax-base/translations.phtml:5
+msgid "No"
+msgstr "Não"
+
+#~ msgid "User Registration"
+#~ msgstr "Registro De Usuário"
+
+#~ msgid "Error!"
+#~ msgstr "Erro!"
+
+#~ msgid "Registration Form"
+#~ msgstr "Formulario de Registro"
+
+#~ msgid "User Administration"
+#~ msgstr "Administração de usuarios"
+
+#~ msgid "Users registered"
+#~ msgstr "Usuarios Cadastrados"
+
+#~ msgid "New"
+#~ msgstr "Novo"
+
+#~ msgid "Id"
+#~ msgstr "Id"
+
+#~ msgid "Name"
+#~ msgstr "Nome"
+
+#~ msgid "Email"
+#~ msgstr "Email"
+
+#~ msgid "Active"
+#~ msgstr "Ativo"
+
+#~ msgid "Created"
+#~ msgstr "Criado"
+
+#~ msgid "Actions"
+#~ msgstr "Ações"
+
+#~ msgid "Activation complete"
+#~ msgstr "Ativação completada"
+
+#~ msgid "Success!"
+#~ msgstr "Sucesso!"
+
+#~ msgid "User"
+#~ msgstr "Usuário"
+
+#~ msgid "Welcome"
+#~ msgstr "Bem vindo"
+
+#~ msgid "His record was successfully activated."
+#~ msgstr "Seu registro foi ativado com sucesso"
+
+#~ msgid "Now you already have access to the system"
+#~ msgstr "Agora você já possui acesso ao sistema"
+
+#, fuzzy
+#~ msgid "Back to the login screen"
+#~ msgstr "Retornar à tela de login"
+
+#~ msgid "User Activation"
+#~ msgstr "Ativação De Usuário"
+
+#~ msgid "Activation Form"
+#~ msgstr "Formulario de ativação"
+
+#~ msgid "User registered successfully"
+#~ msgstr "Usuario registrado com sucesso"
+
+#~ msgid "User not registered"
+#~ msgstr "Usuario não registrado"
+
+#~ msgid "User activated successfully"
+#~ msgstr "Usuario ativado com sucesso"
+
+#~ msgid "User not activated"
+#~ msgstr "Usuario não ativado"
+
+#~ msgid "Register complete"
+#~ msgstr "Cadastro completo"
+
+#~ msgid "Verify your email address to complete your registration."
+#~ msgstr "Verifique se o seu endereço de e-mail para completar o seu registo."
+
+#~ msgid "A message was sent to: "
+#~ msgstr "Uma mensagem foi enviada para: "
+
+#~ msgid ""
+#~ "Check your mailbox and click the confirmation link to effect the release "
+#~ "of your registration. "
+#~ msgstr ""
+#~ "Verifique sua caixa postal e clique no link de confirmação para efetuar a "
+#~ "liberação de seu registro."
+
+#~ msgid "An error occurred"
+#~ msgstr "Ocorreu um erro"
+
+#~ msgid "Additional information"
+#~ msgstr "Informação adicional"
+
+#~ msgid "File"
+#~ msgstr "Arquivo"
+
+#~ msgid "Message"
+#~ msgstr "Mensagem"
+
+#~ msgid "Stack trace"
+#~ msgstr "Pilha de execução"
+
+#~ msgid "Previous exceptions"
+#~ msgstr "Exceções anteriores"
+
+#~ msgid "No Exception available"
+#~ msgstr "Nenhuma exceção disponível"
+
+#~ msgid "A 404 error occurred"
+#~ msgstr "Ocorreu um erro 404"
+
+#~ msgid "The requested controller was unable to dispatch the request."
+#~ msgstr "O controlador requisitado não foi capaz de despachar a requisição."
+
+#~ msgid ""
+#~ "The requested controller could not be mapped to an existing controller "
+#~ "class."
+#~ msgstr ""
+#~ "O controlador requisitados não pode ser mapeado a uma classe de "
+#~ "controlador existente."
+
+#~ msgid "The requested controller was not dispatchable."
+#~ msgstr "O controlador requisitado não foi despachado."
+
+#~ msgid "The requested URL could not be matched by routing."
+#~ msgstr "A URL requisitada não pode ser encontrada em uma rota."
+
+#~ msgid "We cannot determine at this time why a 404 was generated."
+#~ msgstr "Não foi possível determinar o motivo do 404 ter ocorrido."
+
+#~ msgid "Controller"
+#~ msgstr "Controlador"
+
+#~ msgid "resolves to %s"
+#~ msgstr "resolve como %s"
+
+#~ msgid "Edit"
+#~ msgstr "Editar"
+
+#~ msgid "Delete"
+#~ msgstr "Excluir"
+
+#~ msgid "MMDAX Application"
+#~ msgstr "Aplicação MMDAX"
+
+#~ msgid "MMDAX"
+#~ msgstr "MMDAX"
+
+#~ msgid "Home"
+#~ msgstr "Início"
+
+#~ msgid "All rights reserved."
+#~ msgstr "Todos os direitos reservados."
+
+#~ msgid "First"
+#~ msgstr "Primeira"
+
+#~ msgid "Previous"
+#~ msgstr "Anterior"
+
+#~ msgid "Next"
+#~ msgstr "Próxima"
+
+#~ msgid "Last"
+#~ msgstr "Última"
+
+#~ msgid "Users List"
+#~ msgstr "Lista de Usuarios"
+
+#, fuzzy
+#~ msgid "Back on the login screen"
+#~ msgstr "Retornar à tela de login"
+
+#, fuzzy
+#~ msgid "Go to the login screen"
+#~ msgstr "Retornar à tela de login"
+
+#, fuzzy
+#~ msgid "Your register has be activated successfully."
+#~ msgstr "Usuario ativado com sucesso"
+
+#~ msgid "Almost there ..."
+#~ msgstr "Quase lá..."
+
+#~ msgid "To complete your registration we need to check your email."
+#~ msgstr "Para completar seu cadastro nós precisamos verificar seu e-mail."
+
+#~ msgid "Resend confirmation link"
+#~ msgstr "Reenviar link de confirmação"
+
+#~ msgid "Welcome to %sZend Framework 2%s"
+#~ msgstr "Bem vindo ao %sZend Framework 2%s"
+
+#~ msgid ""
+#~ "Congratulations! You have successfully installed the %sZF2 Skeleton "
+#~ "Application%s. You are currently running Zend Framework version %s. This "
+#~ "skeleton can serve as a simple starting point for you to begin building "
+#~ "your application on ZF2."
+#~ msgstr ""
+#~ "Parabéns! Você instalou a %sAplicação Skeleton ZF2%s com sucesso. Você "
+#~ "está usando a versão %s do Zend Framework. Este esqueleto serve "
+#~ "simplesmente como um ponto de inicio na construção da sua aplicação ZF2."
+
+#~ msgid "Fork Zend Framework 2 on GitHub"
+#~ msgstr "Replique Zend Framework 2 no GitHub"
+
+#~ msgid "Follow Development"
+#~ msgstr "Acompanhe o Desenvolvimento"
+
+#~ msgid ""
+#~ "Zend Framework 2 is under active development. If you are interested in "
+#~ "following the development of ZF2, there is a special ZF2 portal on the "
+#~ "official Zend Framework website which provides links to the ZF2 %swiki%s, "
+#~ "%sdev blog%s, %sissue tracker%s, and much more. This is a great resource "
+#~ "for staying up to date with the latest developments!"
+#~ msgstr ""
+#~ "Zend Framework 2 está sob desenvolvimento ativo. Se vocês está "
+#~ "interessado em acompanhar o desenvolvimento do ZF2, tem um portal ZF2 "
+#~ "especial no site oficial do Zend Framework que possui links para ZF2 "
+#~ "%swiki%s, %sdev blog%s, %sissue tracker%s, dentre outros. Este é um "
+#~ "excelente material para se manter atualizado com os últimos "
+#~ "desenvolvimentos!"
+
+#~ msgid "ZF2 Development Portal"
+#~ msgstr "Portal de Desenvolvimento do ZF2"
+
+#~ msgid "Discover Modules"
+#~ msgstr "Descubra Módulos"
+
+#~ msgid ""
+#~ "The community is working on developing a community site to serve as a "
+#~ "repository and gallery for ZF2 modules. The project is available %son "
+#~ "GitHub%s. The site is currently live and currently contains a list of "
+#~ "some of the modules already available for ZF2."
+#~ msgstr ""
+#~ "A Comunidade está trabalhando em desenvolver um site comunitário para "
+#~ "servir como repositório e galeria de módulos ZF2. O projeto estará "
+#~ "disponível %sem breve no GitHub%s. O site já está online e atualmente "
+#~ "contém uma lista de alguns dos módulos já disponíveis para ZF2."
+
+#~ msgid "Explore ZF2 Modules"
+#~ msgstr "Explore Módulos ZF2"
+
+#~ msgid "Help &amp; Support"
+#~ msgstr "Ajuda &amp; Suporte"
+
+#~ msgid ""
+#~ "If you need any help or support while developing with ZF2, you may reach "
+#~ "us via IRC: %s#zftalk on Freenode%s. We'd love to hear any questions or "
+#~ "feedback you may have regarding the beta releases. Alternatively, you may "
+#~ "subscribe and post questions to the %smailing lists%s."
+#~ msgstr ""
+#~ "Caso você precise de ajuda ou suporte enquanto desenvolve com ZF2, pode "
+#~ "nos encontrar pelo %s#zftalk on Freenode%s. Vamos gostar muito de ouvir "
+#~ "perguntas e opiniões que você possa ter em relação às versões beta. "
+#~ "Também, você pode se registrar e enviar perguntar para a %slista de e-mail"
+#~ "%s."
+
+#~ msgid "Ping us on IRC"
+#~ msgstr "Nos escreva no IRC"

@@ -1,0 +1,56 @@
+<?xml version="1.0"?>
+<project name="MMDAX Solution" company="MMDAX Software" manager="Mateus Macedo Dos Anjos" phase="" project-start="20150709T000000Z" mrproject-version="2" calendar="1">
+  <properties/>
+  <phases/>
+  <calendars>
+    <day-types>
+      <day-type id="0" name="&#xDA;til" description="Um dia &#xFA;til padr&#xE3;o"/>
+      <day-type id="1" name="N&#xE3;o &#xFA;til" description="Um dia n&#xE3;o &#xFA;til padr&#xE3;o"/>
+      <day-type id="2" name="Utiliza base" description="Utiliza o dia a partir de um calend&#xE1;rio base"/>
+    </day-types>
+    <calendar id="1" name="Padr&#xE3;o">
+      <default-week mon="0" tue="0" wed="0" thu="0" fri="0" sat="1" sun="1"/>
+      <overridden-day-types>
+        <overridden-day-type id="0">
+          <interval start="0800" end="1200"/>
+          <interval start="1300" end="1700"/>
+        </overridden-day-type>
+      </overridden-day-types>
+      <days/>
+    </calendar>
+  </calendars>
+  <tasks>
+    <task id="1" name="Projeto MMDAX" note="" work="28800" start="20150709T000000Z" end="20150709T100000Z" work-start="20150709T080000Z" percent-complete="0" priority="0" type="normal" scheduling="fixed-work">
+      <task id="2" name="Instala&#xE7;&#xE3;o do ZF2 e modulos auxiliares" note="" work="3600" start="20150709T000000Z" end="20150709T090000Z" work-start="20150709T080000Z" percent-complete="100" priority="0" type="normal" scheduling="fixed-work"/>
+      <task id="3" name="Defini&#xE7;&#xE3;o do template" note="" work="3600" start="20150709T000000Z" end="20150709T090000Z" work-start="20150709T080000Z" percent-complete="100" priority="0" type="normal" scheduling="fixed-work"/>
+      <task id="4" name="Implement&#xE7;&#xE3;o do template" note="" work="3600" start="20150709T000000Z" end="20150709T090000Z" work-start="20150709T080000Z" percent-complete="0" priority="0" type="normal" scheduling="fixed-work">
+        <task id="5" name="Layout" note="" work="3600" start="20150709T000000Z" end="20150709T090000Z" work-start="20150709T080000Z" percent-complete="100" priority="0" type="normal" scheduling="fixed-work"/>
+      </task>
+      <task id="6" name="Modulo Users" note="" work="18000" start="20150709T000000Z" end="20150709T100000Z" work-start="20150709T080000Z" percent-complete="0" priority="0" type="normal" scheduling="fixed-work">
+        <task id="7" name="Especifica&#xE7;&#xE3;o de casos de uso" note="" work="18000" start="20150709T000000Z" end="20150709T100000Z" work-start="20150709T080000Z" percent-complete="0" priority="0" type="normal" scheduling="fixed-work">
+          <task id="8" name="Diagrama" note="" work="3600" start="20150709T000000Z" end="20150709T090000Z" work-start="20150709T080000Z" percent-complete="100" priority="0" type="normal" scheduling="fixed-work"/>
+          <task id="9" name="Especifica&#xE7;&#xE3;o Tecnica" note="" work="7200" start="20150709T000000Z" end="20150709T100000Z" work-start="20150709T080000Z" percent-complete="0" priority="0" type="normal" scheduling="fixed-work"/>
+          <task id="10" name="Constru&#xE7;&#xE3;o de cenarios" note="" work="7200" start="20150709T000000Z" end="20150709T100000Z" work-start="20150709T080000Z" percent-complete="0" priority="0" type="normal" scheduling="fixed-work"/>
+        </task>
+      </task>
+    </task>
+  </tasks>
+  <resource-groups default_group="1">
+    <group id="1" name="Desenvolvimento" admin-name="Mateus Macedo " admin-phone="" admin-email="mateusmacedodosanjos@gmail.com"/>
+  </resource-groups>
+  <resources>
+    <resource group="1" id="1" name="Mateus Macedo Dos Anjos" short-name="Mateus" type="1" units="0" email="mateusmacedodosanjos@gmail.com" note="" std-rate="40"/>
+  </resources>
+  <allocations>
+    <allocation task-id="6" resource-id="1" units="100"/>
+    <allocation task-id="7" resource-id="1" units="100"/>
+    <allocation task-id="8" resource-id="1" units="100"/>
+    <allocation task-id="9" resource-id="1" units="100"/>
+    <allocation task-id="10" resource-id="1" units="100"/>
+    <allocation task-id="4" resource-id="1" units="100"/>
+    <allocation task-id="5" resource-id="1" units="100"/>
+    <allocation task-id="3" resource-id="1" units="100"/>
+    <allocation task-id="2" resource-id="1" units="100"/>
+    <allocation task-id="1" resource-id="1" units="100"/>
+  </allocations>
+</project>

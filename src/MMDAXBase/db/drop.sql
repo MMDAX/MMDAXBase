@@ -1,0 +1,1 @@
+drop table `mmdax_sample`;
