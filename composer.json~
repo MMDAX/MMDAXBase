@@ -1,5 +1,5 @@
 {
-    "name": "mmdax/mmdax-base",
+    "name": "MMDAX/MMDAXBase",
     "description": "Base para modulos em ZF 2 da MMDAX",
     "type": "library",
     "license": "MIT",
