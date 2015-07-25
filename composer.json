@@ -24,7 +24,7 @@
         "psr-0": {
             "MMDAXBase": "src/"
         }
-    }
+    },
     "extra": {
         "branch-alias": {
             "master": "1.0"
